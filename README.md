@@ -1,4 +1,4 @@
-# vueshopping
+# vueshopping_prod
 
 > A Vue.js project
 
